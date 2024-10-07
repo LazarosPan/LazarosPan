@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/lazarospanitsidis/)  &nbsp;
 
-<p align="center" style="font-size: 100;"><i>The Quieter You Become,<br/>The More You Are Able To Hear</i></p>
+<p align="center" style="font-size: 100;"><i>The greatest glory in living lies not in never falling,<br/>but in rising every time we fall.</i></p>
 <br/>
 
 <br/>
@@ -82,6 +82,8 @@ Here are some ideas to get you started:
 	<img src='https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000' height='60' />
 <!-- MATLAB -->
 	<img src='https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000' height='60' />
+<!-- TEX -->
+	<img src='https://img.icons8.com/?size=100&id=piVHs2bMOs6P&format=png&color=000000' height='60' />
 
   
 &nbsp;  
