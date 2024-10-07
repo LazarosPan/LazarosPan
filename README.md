@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://miro.medium.com/v2/resize:fit:870/1*14v1pUZwr516557dpS-oYw.jpeg" alt="header-image" width="100%">
+<img src="https://media.assettype.com/analyticsinsight%2Fimport%2Fwp-content%2Fuploads%2F2021%2F08%2FData-Analytics-vs-Data-Science-vs-Machine-Learning.jpg" alt="header-image" width="100%">
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/lazarospanitsidis/)  &nbsp;
 
@@ -82,8 +82,6 @@ Here are some ideas to get you started:
 	<img src='https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000' height='60' />
 <!-- MATLAB -->
 	<img src='https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000' height='60' />
-<!-- TEX -->
-	<img src='https://img.icons8.com/?size=100&id=piVHs2bMOs6P&format=png&color=000000' height='60' />
 
   
 &nbsp;  
